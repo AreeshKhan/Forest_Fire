@@ -4,7 +4,10 @@
 ## pip install -r requiremnts.txt
 ## python app.py #To run Flask app
 ## streamlit run main.py to run streeamlit app
-
+### Live Hosted with streamlit
+```
+https://areesh-khan-forest-fire-prediction.streamlit.app/
+```
 
 
 # lab-flask
