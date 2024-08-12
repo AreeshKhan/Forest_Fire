@@ -1,9 +1,21 @@
-## Main.py is code for streamlit app
-## app.py is a code for flask app
+## Code for streamlit app
+```
+Main.py
+```
+## Code for flask app
+
 # run using below commands
-## pip install -r requiremnts.txt
-## python app.py #To run Flask app
-## streamlit run main.py to run streeamlit app
+```
+pip install -r requiremnts.txt
+```
+## To run Flask app
+```
+ python app.py
+```
+## To run streeamlit app
+```
+streamlit run main.py
+```
 ### Live Hosted with streamlit
 ```
 https://areesh-khan-forest-fire-prediction.streamlit.app/
